@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cover_imageview" type="id" />
+    <item name="platform_textview" type="id" />
+    <item name="developer_textview" type="id" />
+    <item name="release_date_textview" type="id" />
+    <item name="esrb_rating_textview" type="id" />
+    <item name="publisher_textview" type="id" />
+    <item name="description_textview" type="id" />
+    <item name="gameDetailsItem" type="id" />
+    <item name="homeItem" type="id" />
+    <item name="nav_host_fragment_home" type="id" />
+    <item name="reviewItem" type="id" />
+</resources>

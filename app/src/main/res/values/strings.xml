@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">rma23_19084_Projekat</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="details">Details</string>
+    <string name="searchGames">Search for a game</string>
+</resources>
